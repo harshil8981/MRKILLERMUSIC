@@ -39,6 +39,8 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/harshil8981/MRKILLERMUSIC"> <img src="https://github.com/harshil8981/MRKILLERMUSIC/blob/master/AnonX/assets/BOT DEPLOY (4).png" width="620" height="198.45"/></a></p>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harshil8981/MRKILLERMUSIC)
+
 
 
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
